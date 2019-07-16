@@ -1,0 +1,139 @@
+.container{
+    text-align: middle;
+    font-family: cursive;
+}
+
+#section_info{
+    height: 600px;
+    background-color: whitesmoke;
+    border: solid 8px grey;
+}
+#section_info_header{
+    margin-top: 2%;
+    height: 10%;
+    text-align: center;
+    font-size: 18pt;
+}
+#section_info_header span + span{
+    margin-left: 40px;
+}
+#section_info_body{
+    margin-top: 1px;
+    padding: 15%;
+    height: 100%;
+    border-top: solid;
+    border-color: lightgrey;
+}
+
+#section_workflow{
+    height: 600px;
+    border: 2px solid grey;
+    background-image: url("../../src/img/path.svg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#section_workflow_body{
+    height: 100%;
+}
+.in_item{
+    position: absolute;
+    height: 80pX;
+    width: 80pX;
+    background-color: burlywood;
+    border: sienna solid;
+    z-index: 10;
+}
+.in_item.opt{
+    background-color: lightgray;
+    text-align: center;
+    font-size: 14pt;
+}
+.out_item{
+    height: 65pX;
+    width: 65pX;
+    background-color: burlywood;
+    border: sienna solid;
+    z-index: 10;
+}
+.out_item.opt{
+    background-color: beige;
+}
+.in_line{
+    position: absolute;
+    width: 3%;
+    height: 55%;
+    background-color: grey;
+    opacity: 0.6;
+    z-index: 1;
+}
+#path_bg{
+    width: 100%;
+    object-fit: contain;
+}
+#f_item_0{
+    top: 18%;
+    left: 55%;
+    background-image: url("../../src/img/f3.svg");
+    background-size:contain;
+}
+#f_item_1{
+    top: 48%;
+    right: 5%;
+    background-image: url("../../src/img/f5.svg");
+    background-size:contain;
+}
+#f_item_2{
+    top: 48%;
+    left: 25%;
+    background-image: url("../../src/img/f6.svg");
+    background-size:contain;
+}
+#opt_item_pos_0{
+    top: 77%;
+    left: 65%;
+}
+#opt_item_pos_1{
+    top: 77%;
+    left: 25%;
+}
+#opt_item_0{
+    top: 10%;
+    left: 55%;
+    background-image: url("../../src/img/f0.svg");
+    background-size:contain;
+}
+#opt_item_1{
+    margin-top: 20%;
+    right: 60%;
+    background-image: url("../../src/img/f1.svg");
+    background-size:contain;
+}
+#opt_item_2{
+    margin-top: 20%;
+    left: 55%;
+    background-image: url("../../src/img/f2.svg");
+    background-size:contain;
+}
+#opt_item_3{
+    margin-top: 20%;
+    right: 60%;
+    background-image: url("../../src/img/f4.svg");
+    background-size:contain;
+}
+
+#section_items{
+    height: 600px;
+    background-color: bisque;
+    border: solid 8px grey;
+}
+#section_items_header{
+    margin-top: 2%;
+    height: 5%;
+}
+#section_items_body{
+    margin-top: 10px;
+    padding: 15%;
+    height: 88%;
+    border: solid;
+    border-color: lightgrey;
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="876px" height="912px" viewBox="0 0 876 912" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="path" transform="translate(1.000000, 11.000000)">
+            <path d="M176.5,0.5 L176.5,211.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M749.5,211.5 L176.5,211.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M749.5,211.5 L749.5,484.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M838.5,757.5 L839,889.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M35.5,484.5 L35.5,757.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M35.5,484.5 L749.5,484.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <path d="M35.5,757.5 L839,757.5" id="Line-2" stroke="#979797" stroke-width="22" stroke-linecap="square"></path>
+            <g id="Group-2" transform="translate(715.000000, 177.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 450.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(1.000000, 723.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(804.000000, 723.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(715.000000, 450.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(141.000000, 177.000000)">
+                <circle id="Oval" stroke="#ABABAB" fill="#4A4A4A" cx="35" cy="35" r="35"></circle>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) "></path>
+                <path d="M26.5,46.5 L43.5,23.5" id="Line-2" stroke="#F1F1F1" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
